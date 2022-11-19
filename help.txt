@@ -1,0 +1,215 @@
+##Project
+- https://github.com/gabrielmaialva33/base-rbac-api
+- https://github.com/maxgalbu/adonis5-jwt
+- https://github.com/Kaperskyguru/adonisjs-forum-api
+- https://github.com/Kaperskyguru/adonis-cache
+- https://github.com/Kaperskyguru/ticketing-system-adonisjs
+- https://github.com/Kaperskyguru/adonis-stripe
+- https://github.com/Shagital/adonisjs-crud-generator
+
+##Contributors
+- https://github.com/djunehor
+
+
+
+##Role Permission 
+- *** https://www.youtube.com/watch?v=Nq4EP8vN9oY
+- ***https://socket.dev/npm/package/@shagital/adonisjs-acl
+- ***https://github.com/Shagital/adonisjs-acl
+
+- *** https://www.npmjs.com/package/adonis-acl 
+- *** https://github.com/enniel/adonis-acl
+- ** https://vscode.githubhelp.com/enniel/adonis-acl
+- ** https://coder.social/enniel/adonis-acl
+
+
+
+- ** https://github.com/alexdonh/adonis-rbac 
+- https://github.com/tensult/role-acl
+- https://gist.github.com/maykbrito/ac8cdcc382fbc7012edd99e24c498f34
+
+##Database Seeder
+- https://github.com/Shagital/adonisjs-seeder-generator
+
+
+
+
+###less priroty role management
+- https://github.com/wxs77577/adonis-rbac
+- https://dev.to/slickdev_raphael/role-based-access-control-in-adonis-js-with-npm-role-acl-4jg3
+- https://dev.to/slickdev_raphael/role-based-access-control-in-adonis-js-with-npm-role-acl-4jg3
+- https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control-model
+
+
+###Bouncer authorizations
+- https://adocasts.com/lessons/adonisjs-bouncer-actions-and-authorizations
+
+
+##Basic setup
+- https://masteringbackend.com/posts/adonisjs-tutorial-the-ultimate-guide/
+
+
+##Caching
+- https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/
+
+
+##Packages
+- https://packages.adonisjs.com/
+- https://github.com/adonisjs/lucid-slugify
+
+- https://github.com/zakodium/adonis-mongodb
+- https://github.com/wahyubucil/adonis-mix-asset
+- https://github.com/Melchyore/adonis-dynamodb
+- https://github.com/maxgalbu/adonis5-jwt
+- https://github.com/reg2005/adonis5-swagger
+- https://github.com/Julien-R44/adonis5-prometheus
+- **https://github.com/Julien-R44/adoscope
+
+- https://github.com/Shagital/adonisjs-phone-validator
+- https://github.com/Shagital/adonisjs-location
+- https://github.com/Shagital/countries-states-cities-database
+
+
+###Test
+- https://www.codementor.io/@katifrantz796/how-to-build-rest-apis-with-tdd-and-adonis-js-s76hshvyh
+
+
+###Validation
+- * https://docs.adonisjs.com/guides/validator/introduction
+- * https://docs.adonisjs.com/reference/validator/rules/unique 
+- * https://docs.adonisjs.com/guides/validator/custom-rules
+
+- https://dev.to/olaoluwa98/how-to-add-custom-validation-rules-to-adonisjs-validator-54d1
+- https://medium.com/@eralderald/creating-custom-validators-in-adonis-js-framework-476bb2ac4a86
+- https://stackoverflow.com/questions/68521875/how-to-use-single-validator-class-for-both-resource-creation-and-modification-in
+- https://indicative.adonisjs.com/guides/master/error-formatters
+
+
+
+##package development
+- https://adonismastery.com/courses/adonisjs-package-development
+- https://steemit.com/utopian-io/@creatrixity/building-your-own-adonisjs-package
+- https://mcsneaky.ap3k.pro/posts/adonis-v5-provider/
+- https://trello.com/c/x8SCwZR9/8-guide-on-package-development
+- https://trello.com/b/3klaHbfP/adonisjs-roadmap
+- https://github.com/Rocketseat/adonis-bull
+- https://adocasts.com/lessons/how-to-make-a-simple-adonisjs-package
+
+
+
+##Blog
+- https://adonisjs.com/adonisjs-at-a-glance 
+- https://dev.to/nilomiranda/creating-an-api-using-adonisjs-part-1-2mk0
+- https://dev.to/nilomiranda/building-an-api-with-adonisjs-part-2-3p94
+- https://adocasts.com/lessons/service-providers-and-the-ioc-container
+
+
+##Image Upload
+- https://www.codementor.io/@amooabeebi0/image-file-upload-in-adonis-js-with-cloudinary-14klwo68tw
+
+
+##Graphql
+- https://www.apollographql.com/docs/apollo-server/
+
+
+
+##Swaggar Documentation
+- https://swagger.io/specification/
+- https://www.npmjs.com/package/adonis5-swagger
+- https://github.com/reg2005/adonis5-swagger
+- https://github.com/ahmadarif/adonis-swagger/issues/5
+
+##File Upload
+- https://www.youtube.com/watch?v=2iWH-Kf0G5k
+
+
+###Issued
+- https://github.com/APIDevTools/swagger-parser/issues/156
+
+##youtube tutorials
+- ***https://www.youtube.com/watch?v=_MSQY3lqhCo&t=520s
+- https://adonismastery.com/courses/adonisjs-5-from-scratch 
+- https://www.youtube.com/watch?v=Lz1Q1fHnOKw
+- https://www.youtube.com/watch?v=L47ox8QZur0
+- https://www.youtube.com/watch?v=9N-OoVW9dDk
+- https://www.youtube.com/watch?v=VIvBeEj9QVg
+- https://www.youtube.com/watch?v=_MSQY3lqhCo
+- https://www.youtube.com/watch?v=bSvw887ptKI
+- https://www.youtube.com/watch?v=bJCGbgJs6dU
+- https://www.youtube.com/watch?v=9lhE5EWmzEY
+- https://www.youtube.com/watch?v=VNwhqiu_oRk
+
+- https://www.youtube.com/watch?v=AXAJGHQBNkg
+- https://www.youtube.com/watch?v=ldcfYB_mo6Q
+- https://www.youtube.com/watch?v=l2CA9FtW1Pw
+- https://www.youtube.com/watch?v=VMZ6T6FmqXg 
+- https://www.youtube.com/watch?v=JoP2FsInekA
+- https://www.youtube.com/watch?v=45EKmhcMjvc
+- https://www.youtube.com/watch?v=uBJ1glwJ4Ok
+- https://www.youtube.com/watch?v=2iWH-Kf0G5k
+
+** https://www.youtube.com/watch?v=-fz38HY519M
+** https://www.youtube.com/watch?v=4zzbNac6f6Q
+** https://www.youtube.com/watch?v=hf6Z8OZanec
+** https://www.youtube.com/watch?v=mWCrzUGkGKQ
+** https://www.youtube.com/watch?v=mdyDJwdaXlA
+
+##authentication
+- https://www.youtube.com/watch?v=7_VaboULoas&list=PL9dIWiKCV572BePnzbehGKEx4iVob_6zX
+- https://betterprogramming.pub/adonisjs-use-ally-with-api-guard-and-an-spa-5d8b78d58765
+- https://dev.to/tngeene/adonisjs-understanding-user-registration-and-authentication-2ojl
+- https://www.howtocode.io/posts/adonis-js-5-user-authentication
+
+###Inertia js **
+- https://www.youtube.com/watch?v=pFn5hVRgTSY&list=PL9dIWiKCV572nAJmH8CZNvY389Fxso-Es
+
+
+##tutorials 
+- https://adocasts.com/lessons/lets-learn-adonis-5-multi-file-route-grouping-strategies
+
+
+##Migrations
+- https://knexjs.org/guide/
+
+##Soft Delete
+- https://medium.com/swlh/implementing-soft-delete-in-adonisjs-v5-21de89585f1f
+- https://github.com/lookinlab/adonis-lucid-soft-deletes
+- https://github.com/adonisjs/core/discussions/1791
+
+
+##Enum
+- https://github.com/adonisjs/core/discussions/1805
+- https://knexjs.org/guide/schema-builder.html#binary
+
+
+## Issue which i fatch
+- https://github.com/adonisjs/lucid/issues/636
+- https://www.mikealche.com/uncategorized/how-to-serialize-related-fields-as-camelcase-in-adonis-js-v5
+
+
+## Write javascript  OOP style / class style
+- https://gist.github.com/hmdhk/1c336bec42edc8a6abc5
+- https://www.digitalocean.com/community/tutorials/how-to-use-classes-in-typescript
+
+##javascript help
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith
+- https://bobbyhadz.com/blog/javascript-convert-array-of-objects-to-array-of-values
+
+
+ 
+
+############ Deploy only Build folders ##########
+$ cd build
+$ git init
+$ git remote add origin https://gitlab.com/dev.unisearch/m4yours-api-deploy.git
+$ git branch -M main
+$ git add .
+$ git commit -m "your comment"
+$ git pull origin main 
+$ git push --set-upstream origin main
+$ git push -uf origin main
+
+
+#remove form git cache
+$ git rm .env --cached
+

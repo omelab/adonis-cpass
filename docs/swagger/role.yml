@@ -1,0 +1,24 @@
+/api/roles:
+  get:
+    summary: List all Roles
+    operationId: listRoles
+    tags:
+      - roles
+    parameters:
+      - name: page
+        in: query
+        description: Current page number
+        required: true
+        schema:
+          type: integer
+      - name: limit
+        in: query
+        description: How many items to return at one time (max 100)
+        required: true
+        schema:
+          type: integer
+    responses:
+      '200':
+        description: A paged array of roles
+        content:
+          application/json:
